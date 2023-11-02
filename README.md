@@ -2,8 +2,8 @@
 
 🕔 比例设计，支持DPI，各种缩放
 
-![白色](screenshot/w.png?raw=true)
-![黑色](screenshot/b.png?raw=true)
+![白色](screenshot/w.gif?raw=true)
+![黑色](screenshot/b.gif?raw=true)
 
 ---
 
